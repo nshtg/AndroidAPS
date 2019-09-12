@@ -1113,7 +1113,7 @@
     <string name="glucoseisnotavailable">КЗ не е достъпна</string>
     <string name="glucosecomparedmgdl">КЗ %1$s %2$.0f %3$s</string>
     <string name="glucosecomparedmmol">КЗ %1$s %2$.1f %3$s</string>
-    <string name="percentagecompared">Профил проц %1$s %2$d</string>
+    <string name="percentagecompared">Профил процент %1$s %2$d</string>
     <string name="iobcompared">IOB %1$s %2$.1f</string>
     <string name="and">И</string>
     <string name="or">или</string>
@@ -1222,7 +1222,7 @@
     <string name="please_choose_a_trigger_type">Моля изберете условие:</string>
     <string name="triggers">Активиращи условия:</string>
     <string name="remove_label">ИЗТРИИ</string>
-    <string name="preconditions">Предварителни:</string>
+    <string name="preconditions">Предварителни условия:</string>
     <!-- Pump Abstract -->
     <string name="pump_operation_not_supported_by_pump_driver">Неподдържана операция.</string>
     <string name="pump_operation_not_yet_supported_by_pump">Операцията не се поддържа от помпата (ВСЕ ОЩЕ).</string>
