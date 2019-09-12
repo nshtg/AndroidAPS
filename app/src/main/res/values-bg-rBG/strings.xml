@@ -1203,8 +1203,8 @@
     <string name="autosenscompared">Аутосенс %1$s %2$s %%</string>
     <string name="autosenslabel">Аутосенс %</string>
     <string name="deltacompared">%3$s %1$s %2$s</string>
-    <string name="deltalabel">Разлика в кръвната захар</string>
-    <string name="deltalabel_u">Разлика в кръвната захар [%1$s]</string>
+    <string name="deltalabel">Изменение в кръвната захар</string>
+    <string name="deltalabel_u">Изменение в кръвната захар [%1$s]</string>
     <string name="currentlocation">Текущото местоположение</string>
     <string name="location">Местоположение</string>
     <string name="latitude_short">Ширина:</string>
