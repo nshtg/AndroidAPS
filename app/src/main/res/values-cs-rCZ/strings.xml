@@ -1268,9 +1268,9 @@
     <string name="rileylink_scanner_selected_device">Vybráno</string>
     <string name="rileylink_scanner_title">Vyhledávání RileyLinku</string>
     <string name="rileylink_scanner_ble_not_supported">Bluetooth Low Energy nepodporováno.</string>
-    <string name="rileylink_scanner_ble_not_enabled">Bluetooth není povolen.</string>
+    <string name="rileylink_scanner_ble_not_enabled">Bluetooth není povoleno.</string>
     <string name="location_not_found_title">Zjišťování místa není povoleno</string>
-    <string name="location_not_found_message">Pro vyhledání Bluetooth zařízení na novějších telefonech musí být povoleno zjišťování polohy. AAPS Vás nesleduje a po provedení párování to může být opět zakázáno.</string>
+    <string name="location_not_found_message">Pro vyhledání Bluetooth zařízení na novějších telefonech musí být povoleno zjišťování polohy. AAPS vás nesleduje a po provedení párování můžete tuto volbu opět zakázat.</string>
     <string name="location_yes">Povolit</string>
     <string name="location_no">Ne</string>
     <string name="rileylink_scanner_scanning">Vyhledávání</string>
@@ -1331,7 +1331,7 @@
     <string name="medtronic_error_pump_wrong_max_bolus_set">Chybný max. bolus na pumpě (musí být %1$.2f).</string>
     <string name="medtronic_error_pump_wrong_max_basal_set">Chybný max. bazál na pumpě (musí být %1$.2f).</string>
     <string name="medtronic_error_operation_not_possible_no_configuration">Operace není možná.\n\nNejdříve je nutné nakonfigurovat pumpu, než bude možné tuto funkci použít.</string>
-    <string name="medtronic_error_pump_24h_time_change_requested">Požadována změna času větší než 24h.</string>
+    <string name="medtronic_error_pump_24h_time_change_requested">Požadována změna času větší než 24 h.</string>
     <!-- MDT History -->
     <string name="medtronic_history_group_basal">Bazály</string>
     <string name="medtronic_history_group_configuration">Konfigurace</string>
